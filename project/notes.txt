@@ -1,0 +1,7 @@
+自回归移动平均模型 (ARIMA)
+季节性自回归移动平均模型 (SARIMA)
+长短期记忆网络 (LSTM)
+卷积神经网络 (CNN)
+支持向量回归 (SVR)
+随机森林回归 (Random Forest Regressor)
+梯度提升回归 (Gradient Boosting Regressor)
